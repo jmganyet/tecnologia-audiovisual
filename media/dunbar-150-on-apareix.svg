@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 710" width="1200" height="710" font-family="-apple-system, 'SF Pro Text', system-ui, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="710" fill="#ffffff"/>
+  <!-- radis cap al centre -->
+  <g stroke="#d9d9d9" stroke-width="2">
+    <line x1="600" y1="330" x2="200" y2="140"/>
+    <line x1="600" y1="330" x2="600" y2="110"/>
+    <line x1="600" y1="330" x2="1000" y2="140"/>
+    <line x1="600" y1="330" x2="200" y2="520"/>
+    <line x1="600" y1="330" x2="600" y2="550"/>
+    <line x1="600" y1="330" x2="1000" y2="520"/>
+  </g>
+  <!-- centre -->
+  <circle cx="600" cy="330" r="96" fill="#C8102E"/>
+  <text x="600" y="358" text-anchor="middle" font-size="78" font-weight="700" fill="#ffffff">150</text>
+
+  <!-- 1. poble neolític: tres cases -->
+  <g transform="translate(200,120)">
+    <circle r="62" fill="#ffffff" stroke="#231F20" stroke-width="3"/>
+    <g fill="none" stroke="#231F20" stroke-width="3" stroke-linejoin="round">
+      <path d="M-38 18 v-18 l14 -12 l14 12 v18 z"/>
+      <path d="M-10 18 v-24 l16 -14 l16 14 v24 z"/>
+      <path d="M22 18 v-16 l12 -10 l12 10 v16 z"/>
+    </g>
+    <text y="96" text-anchor="middle" font-size="25" font-weight="600" fill="#231F20">Poble neolític</text>
+    <text y="124" text-anchor="middle" font-size="20" fill="#6d6e71">uns 150 habitants</text>
+  </g>
+
+  <!-- 2. clan de caçadors-recol·lectors: foc -->
+  <g transform="translate(600,90)">
+    <circle r="62" fill="#ffffff" stroke="#231F20" stroke-width="3"/>
+    <path d="M0 -30 C 14 -12, 22 2, 14 18 C 8 28, -8 28, -14 18 C -22 4, -8 -6, -4 -16 C 2 -8, 4 0, 0 6 C 8 0, 6 -16, 0 -30 z" fill="#C8102E"/>
+    <g stroke="#231F20" stroke-width="4" stroke-linecap="round"><line x1="-24" y1="32" x2="24" y2="22"/><line x1="-24" y1="22" x2="24" y2="32"/></g>
+    <text y="96" text-anchor="middle" font-size="25" font-weight="600" fill="#231F20">Clan de caçadors-recol·lectors</text>
+    <text y="124" text-anchor="middle" font-size="20" fill="#6d6e71">entre 100 i 200</text>
+  </g>
+
+  <!-- 3. exèrcit: companyia -->
+  <g transform="translate(1000,120)">
+    <circle r="62" fill="#ffffff" stroke="#231F20" stroke-width="3"/>
+    <path d="M0 -32 L26 -22 V2 C26 20, 12 30, 0 36 C-12 30, -26 20, -26 2 V-22 Z" fill="none" stroke="#231F20" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M0 -20 V24 M-14 0 H14" stroke="#C8102E" stroke-width="4" stroke-linecap="round"/>
+    <text y="96" text-anchor="middle" font-size="25" font-weight="600" fill="#231F20">Companyia d'un exèrcit</text>
+    <text y="124" text-anchor="middle" font-size="20" fill="#6d6e71">de Roma als exèrcits d'avui</text>
+  </g>
+
+  <!-- 4. colònia hutterita: grup que es parteix -->
+  <g transform="translate(200,500)">
+    <circle r="62" fill="#ffffff" stroke="#231F20" stroke-width="3"/>
+    <g fill="#231F20">
+      <circle cx="-26" cy="-14" r="6"/><circle cx="-12" cy="-14" r="6"/><circle cx="-26" cy="4" r="6"/><circle cx="-12" cy="4" r="6"/><circle cx="-19" cy="20" r="6"/>
+      <circle cx="12" cy="-14" r="6"/><circle cx="26" cy="-14" r="6"/><circle cx="12" cy="4" r="6"/><circle cx="26" cy="4" r="6"/><circle cx="19" cy="20" r="6"/>
+    </g>
+    <line x1="0" y1="-34" x2="0" y2="34" stroke="#C8102E" stroke-width="3" stroke-dasharray="5 5"/>
+    <text y="96" text-anchor="middle" font-size="25" font-weight="600" fill="#231F20">Colònia hutterita</text>
+    <text y="124" text-anchor="middle" font-size="20" fill="#6d6e71">es parteix en dues en arribar a 150</text>
+  </g>
+
+  <!-- 5. fàbrica: Gore-Tex -->
+  <g transform="translate(600,570)">
+    <circle r="62" fill="#ffffff" stroke="#231F20" stroke-width="3"/>
+    <path d="M-34 26 V-4 L-18 -14 V-4 L-2 -14 V-4 L14 -14 V-4 L34 -18 V26 Z" fill="none" stroke="#231F20" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="22" y="-34" width="8" height="16" fill="#231F20"/>
+    <g fill="#C8102E"><rect x="-26" y="6" width="8" height="8"/><rect x="-8" y="6" width="8" height="8"/><rect x="10" y="6" width="8" height="8"/></g>
+    <text y="96" text-anchor="middle" font-size="25" font-weight="600" fill="#231F20">Fàbriques de Gore-Tex</text>
+    <text y="124" text-anchor="middle" font-size="20" fill="#6d6e71">màxim 150 persones per edifici</text>
+  </g>
+
+  <!-- 6. oficina: Agència Tributària sueca -->
+  <g transform="translate(1000,500)">
+    <circle r="62" fill="#ffffff" stroke="#231F20" stroke-width="3"/>
+    <rect x="-20" y="-32" width="40" height="62" fill="none" stroke="#231F20" stroke-width="3"/>
+    <g fill="#231F20"><rect x="-12" y="-24" width="8" height="8"/><rect x="4" y="-24" width="8" height="8"/><rect x="-12" y="-10" width="8" height="8"/><rect x="4" y="-10" width="8" height="8"/><rect x="-12" y="4" width="8" height="8"/><rect x="4" y="4" width="8" height="8"/></g>
+    <rect x="-5" y="16" width="10" height="14" fill="#C8102E"/>
+    <text y="96" text-anchor="middle" font-size="25" font-weight="600" fill="#231F20">Agència Tributària sueca</text>
+    <text y="124" text-anchor="middle" font-size="20" fill="#6d6e71">màxim 150 per oficina (2007)</text>
+  </g>
+</svg>
