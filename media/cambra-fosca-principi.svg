@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="960" height="360" font-family="-apple-system, 'SF Pro Text', system-ui, Helvetica, Arial, sans-serif"><title>El principi de la cambra fosca: la llum d'un arbre passa per un forat petit i en projecta la imatge cap per avall a la paret del fons</title>
+<rect width="960" height="360" fill="#fff"/>
+<rect x="122" y="220" width="20" height="90" fill="#6B4423"/><circle cx="132" cy="165" r="70" fill="#4C9A2A"/><circle cx="132" cy="95" r="8" fill="#C8102E"/>
+<text x="132" y="345" text-anchor="middle" font-size="20" fill="#231F20">L'escena, il·luminada</text>
+<rect x="420" y="60" width="285" height="280" fill="#231F20"/>
+<rect x="414" y="60" width="12" height="280" fill="#6d6e71"/>
+<rect x="414" y="194" width="12" height="12" fill="#fff"/>
+<rect x="699" y="60" width="6" height="280" fill="#d9d9d9"/>
+<line x1="132" y1="95" x2="640" y2="280.2" stroke="#C8102E" stroke-width="3"/>
+<line x1="132" y1="310" x2="640" y2="116.0" stroke="#7bc043" stroke-width="3"/>
+<g transform="translate(640,200) scale(0.764,-0.764) translate(-132,-200)"><rect x="122" y="220" width="20" height="90" fill="#6B4423"/><circle cx="132" cy="165" r="70" fill="#4C9A2A"/><circle cx="132" cy="95" r="8" fill="#C8102E"/></g>
+<text x="420" y="45" text-anchor="middle" font-size="20" fill="#231F20">Un forat petit</text>
+<line x1="420" y1="52" x2="420" y2="190" stroke="#231F20" stroke-width="1.5" stroke-dasharray="4 4"/>
+</svg>

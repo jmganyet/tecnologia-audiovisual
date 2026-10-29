@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" font-family="-apple-system, 'SF Pro Text', system-ui, Helvetica, Arial, sans-serif"><title>Síntesi additiva i subtractiva: a la pantalla, vermell, verd i blau sumats fan blanc; al paper, cian, magenta i groc sumats fan gairebé negre</title><rect width="960" height="400" fill="#fff"/>
+<rect x="40" y="20" width="420" height="310" fill="#000"/>
+<circle cx="210" cy="135" r="80" fill="#ff0000" style="mix-blend-mode:screen"/><circle cx="290" cy="135" r="80" fill="#00ff00" style="mix-blend-mode:screen"/><circle cx="250" cy="205" r="80" fill="#0000ff" style="mix-blend-mode:screen"/>
+<text x="250" y="365" text-anchor="middle" font-size="20" fill="#231F20"><tspan font-weight="600">RGB</tspan> · la pantalla emet llum:</text>
+<text x="250" y="390" text-anchor="middle" font-size="20" fill="#231F20">tot sumat dona <tspan font-weight="600">blanc</tspan></text>
+<circle cx="670" cy="135" r="80" fill="#00ffff" style="mix-blend-mode:multiply"/><circle cx="750" cy="135" r="80" fill="#ff00ff" style="mix-blend-mode:multiply"/><circle cx="710" cy="205" r="80" fill="#ffff00" style="mix-blend-mode:multiply"/>
+<text x="710" y="365" text-anchor="middle" font-size="20" fill="#231F20"><tspan font-weight="600">CMYK</tspan> · la tinta absorbeix llum:</text>
+<text x="710" y="390" text-anchor="middle" font-size="20" fill="#231F20">tot sumat dona <tspan font-weight="600">fosc</tspan></text>
+</svg>

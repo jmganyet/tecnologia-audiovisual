@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" font-family="-apple-system, 'SF Pro Text', system-ui, Helvetica, Arial, sans-serif"><title>Simulació de la visió: només el centre, on mira la fòvea, és nítid; el que l'envolta es veu borrós</title><rect width="960" height="400" fill="#fff"/>
+<defs><filter id="b2" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="5"/></filter>
+<radialGradient id="g2" cx="480" cy="204" r="480" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset=".2" stop-color="#fff"/><stop offset=".42" stop-color="#000"/></radialGradient>
+<mask id="m1"><rect width="960" height="400" fill="url(#g2)"/></mask>
+<g id="t"><text x="480" y="60" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">Mentre llegiu aquesta frase, els ulls no s'estan quiets:</text><text x="480" y="108" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">salten dues o tres vegades per segon d'un punt a l'altre,</text><text x="480" y="156" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">i a cada salt només veuen nítid un tros molt petit.</text><text x="480" y="204" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">Mireu fixament el punt vermell i proveu de llegir la resta.</text><text x="480" y="252" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">El cervell cus tots aquests trossos en una sola imatge</text><text x="480" y="300" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">i us fa creure que ho veieu tot nítid alhora.</text><text x="480" y="348" text-anchor="middle" font-size="26" font-weight="600" fill="#231F20">És una panoràmica, com la del mòbil, però contínua.</text></g></defs>
+<use href="#t" filter="url(#b2)"/>
+<g mask="url(#m1)"><rect width="960" height="400" fill="#fff"/><use href="#t"/></g>
+<circle cx="480" cy="204" r="6" fill="#C8102E"/>
+</svg>
