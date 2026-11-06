@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580">
+<rect x="20.0" y="41.6" width="921.6" height="518.4" fill="#f7f7f7" stroke="#231F20" stroke-width="3"/>
+<rect x="20.0" y="300.8" width="491.5" height="259.2" fill="none" stroke="#C8102E" stroke-width="3" stroke-dasharray="10 7"/>
+<rect x="20.0" y="300.8" width="460.8" height="259.2" fill="#fbe9ec" stroke="#C8102E" stroke-width="3"/>
+<rect x="20.0" y="430.4" width="245.8" height="129.6" fill="none" stroke="#6d6e71" stroke-width="3" stroke-dasharray="10 7"/>
+<rect x="20.0" y="430.4" width="230.4" height="129.6" fill="#e3e3e3" stroke="#6d6e71" stroke-width="3"/>
+<text x="925.6" y="75.6" font-size="22" fill="#231F20" font-weight="600" text-anchor="end" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">8K · 7680 × 4320 · 33 milions de píxels</text>
+<text x="925.6" y="101.6" font-size="18" fill="#6d6e71" font-weight="400" text-anchor="end" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">Galaxy S25 Ultra · teles 8K · càmeres de cinema</text>
+<text x="525.5" y="326.8" font-size="21" fill="#C8102E" font-weight="600" text-anchor="start" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">4K · 3840 × 2160 · 8,3 milions</text>
+<text x="525.5" y="350.8" font-size="18" fill="#6d6e71" font-weight="400" text-anchor="start" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">el mòbil (iPhone 17 Pro) · la tele 4K</text>
+<text x="525.5" y="380.8" font-size="18" fill="#C8102E" font-weight="400" text-anchor="start" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">4K de cinema (DCI) · 4096 × 2160 · 8,8 milions</text>
+<text x="279.8" y="456.4" font-size="21" fill="#231F20" font-weight="600" text-anchor="start" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">HD · 1920 × 1080 · 2,1 milions</text>
+<text x="279.8" y="480.4" font-size="18" fill="#6d6e71" font-weight="400" text-anchor="start" font-family="-apple-system, SF Pro Text, Helvetica Neue, Arial, sans-serif">2K de cinema (DCI) · 2048 × 1080 · 2,2 milions</text>
+</svg>
